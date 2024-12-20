@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007910773471",
+    "project_id": "expenzo-835fc",
+    "storage_bucket": "expenzo-835fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007910773471:android:08f3ac834f3712ba31bf6a",
+        "android_client_info": {
+          "package_name": "com.fin.expenzo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmZ23a-w9ghr_QbBFTrZHrXlVSJ2teg9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
